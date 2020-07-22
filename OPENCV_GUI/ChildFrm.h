@@ -34,3 +34,4 @@ protected:
 	DECLARE_MESSAGE_MAP()
 };
 //hmmmmmmm
+//hmmm2
